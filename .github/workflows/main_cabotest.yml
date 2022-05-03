@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'CaboTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_025FA3F7A8874C568EBC4BDC7ADA0C62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DE466D4DBB4468BBBCF1344196CB47B }}
           package: .
